@@ -8,6 +8,6 @@
 ## Proofreading
 
 - [Cambridge Proofreading](https://proofreading.org/)
-- []()
-- []()
-- []()
+- [editage](https://www.editage.co.kr/)
+- [enago](https://www.enago.co.kr/)
+- [Proofreading is needed in SOP or CV writing?](https://blog.naver.com/kjj_blog/222156195857) : comparison of each proofreading service
